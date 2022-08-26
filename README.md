@@ -40,7 +40,7 @@ start-container:
 
 `start-container` - start Docker container.
 
-##Config
+## Config
 
 Your should use `.env` variables.
 
@@ -51,7 +51,7 @@ Your should use `.env` variables.
 
 `AUTH_SERVER_URL` - your application server address, e.g `http://localhost:8088/`.
 
-###Additional
+### Additional
 
 [Pocket API: Documentation](https://getpocket.com/developer/docs/overview).
 
